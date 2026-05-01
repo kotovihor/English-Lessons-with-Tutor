@@ -4,9 +4,9 @@
 
 ## Таблиця помилок
 
-| Date | Lesson | Wrong | Correct | Type | Reason | Repeat |
-|---|---|---|---|---|---|---|
-| 2026-04-29 | [[2026-04-29 Lesson 01]] | I very like English. | I really like English. | grammar | `very` не використовується перед дієсловом `like`. | 🔁 |
+| Date       | Lesson                   | Wrong                         | Correct                        | Type    | Reason                                  | Repeat |
+| ---------- | ------------------------ | ----------------------------- | ------------------------------ | ------- | -------------------------------------- | ------ |
+| 2026-04-29 | [[2026-04-29 Lesson 01]] | He **must had gone** to work. | He **must have gone** to work. | grammar always use have + part participle (V3) e  |        |
 
 ## Типи помилок
 

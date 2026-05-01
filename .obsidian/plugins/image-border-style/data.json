@@ -1,0 +1,77 @@
+{
+  "borderRadius": "md",
+  "borderWidth": 2,
+  "borderColor": "#ff5c5c",
+  "isContrastBased": false,
+  "theme": "dark",
+  "styles": [
+    {
+      "name": "rounded-none",
+      "css": "image-style-rounded-none"
+    },
+    {
+      "name": "rounded-xs",
+      "css": "image-style-rounded-xs"
+    },
+    {
+      "name": "rounded-sm",
+      "css": "image-style-rounded-sm"
+    },
+    {
+      "name": "rounded-md",
+      "css": "image-style-rounded-md"
+    },
+    {
+      "name": "rounded-lg",
+      "css": "image-style-rounded-lg"
+    },
+    {
+      "name": "rounded-xl",
+      "css": "image-style-rounded-xl"
+    },
+    {
+      "name": "rounded-2xl",
+      "css": "image-style-rounded-2xl"
+    },
+    {
+      "name": "rounded-3xl",
+      "css": "image-style-rounded-3xl"
+    },
+    {
+      "name": "rounded-4xl",
+      "css": "image-style-rounded-4xl"
+    },
+    {
+      "name": "width-none",
+      "css": "image-border-width-none"
+    },
+    {
+      "name": "width-thin",
+      "css": "image-border-width-thin"
+    },
+    {
+      "name": "width-standard",
+      "css": "image-border-width-standard"
+    },
+    {
+      "name": "width-thick",
+      "css": "image-border-width-thick"
+    },
+    {
+      "name": "width-medium-heavy",
+      "css": "image-border-width-medium-heavy"
+    },
+    {
+      "name": "width-heavy",
+      "css": "image-border-width-heavy"
+    },
+    {
+      "name": "color-light",
+      "css": "image-border-color-light"
+    },
+    {
+      "name": "color-dark",
+      "css": "image-border-color-dark"
+    }
+  ]
+}

@@ -180,7 +180,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -194,28 +195,30 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c0a36397059be183",
+  "active": "de910f279a373dc7",
   "lastOpenFiles": [
-    "ChatGPT_MD/agents",
-    "ChatGPT_MD",
-    "06_Homework/Homework Tracker.md",
-    "00_Home/English Lessons Dashboard.md",
-    "00_Home/Learning Goals.md",
+    "Attachments/Pasted image 20260430121044.png",
     "03_Vocabulary/Vocabulary Bank.md",
+    "01_Lessons/2026-04-29 Lesson 01.md",
+    "Attachments/Pasted image 20260430115659.png",
+    "05_Pronunciation/Pronunciation Notes.md",
+    "06_Homework/Homework Tracker.md",
+    "07_Teacher_Feedback/Teacher Feedback.md",
     "02_Mistakes/Mistake Bank.md",
     "02_Mistakes/Grammar Mistakes.md",
-    "01_Lessons/2026-04-29 Lesson 01.md",
+    "04_Grammar/Question Word Order.md",
+    "04_Grammar/Grammar Notes.md",
+    "00_Home/English Lessons Dashboard.md",
+    "ChatGPT_MD/agents",
+    "ChatGPT_MD",
+    "00_Home/Learning Goals.md",
     "09_Templates/Homework Template.md",
     "09_Templates/Vocabulary Template.md",
     "09_Templates/Lesson Template.md",
     "Attachments/Pasted image 20260429221039.png",
     "Attachments/Pasted image 20260429220708.png",
-    "04_Grammar/Grammar Notes.md",
-    "04_Grammar/Question Word Order.md",
-    "05_Pronunciation/Pronunciation Notes.md",
     "04_Grammar/Present Simple.md",
     "08_Resources/Resources.md",
-    "07_Teacher_Feedback/Teacher Feedback.md",
     "09_Templates/Mistake Template.md"
   ]
 }
