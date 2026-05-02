@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_Lessons/2026-04-29 Lesson 01.md",
+                "file": "01_Lessons/2026-05-02 Lesson 2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-04-29 Lesson 01"
+              "title": "2026-05-02 Lesson 2"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "8075d3bcee08e4d2",
@@ -180,8 +181,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -197,9 +197,17 @@
   },
   "active": "de910f279a373dc7",
   "lastOpenFiles": [
+    "Attachments/Pasted image 20260502230129.png",
+    "Attachments/Pasted image 20260502224839.png",
+    "01_Lessons/2026-04-29 Lesson 01.md",
+    "01_Lessons/2026-05-02 Lesson 2.md",
+    "Attachments/Pasted image 20260502223007.png",
+    "Attachments/Pasted image 20260502223006.png",
+    "09_Templates/Lesson Template.md",
+    "01_Lessons/Untitled.md",
+    "09_Templates/Homework Template.md",
     "Attachments/Pasted image 20260430121044.png",
     "03_Vocabulary/Vocabulary Bank.md",
-    "01_Lessons/2026-04-29 Lesson 01.md",
     "Attachments/Pasted image 20260430115659.png",
     "05_Pronunciation/Pronunciation Notes.md",
     "06_Homework/Homework Tracker.md",
@@ -212,9 +220,7 @@
     "ChatGPT_MD/agents",
     "ChatGPT_MD",
     "00_Home/Learning Goals.md",
-    "09_Templates/Homework Template.md",
     "09_Templates/Vocabulary Template.md",
-    "09_Templates/Lesson Template.md",
     "Attachments/Pasted image 20260429221039.png",
     "Attachments/Pasted image 20260429220708.png",
     "04_Grammar/Present Simple.md",
