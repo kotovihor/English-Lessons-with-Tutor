@@ -93,8 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "8075d3bcee08e4d2",
@@ -210,14 +209,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c8724665920a2285",
+  "active": "70c38a52405aaa8c",
   "lastOpenFiles": [
-    "Attachments/Pasted image 20260508213438.png",
+    "Attachments/Pasted image 20260509145257.png",
+    "01_Lessons/2026-05-02 Lesson 02.md",
     "01_Lessons/2026-05-06 Lesson 03.md",
     "01_Lessons/2026 05-08 Lesson 04.md",
+    "Attachments/Pasted image 20260508213438.png",
     "Attachments/Pasted image 20260508140355.png",
     "Attachments/Pasted image 20260508131940.png",
-    "01_Lessons/2026-05-02 Lesson 02.md",
     "01_Lessons/2026-04-29 Lesson 01.md",
     "Attachments/Pasted image 20260502230129.png",
     "Attachments/Pasted image 20260502224839.png",
@@ -241,7 +241,6 @@
     "00_Home/Learning Goals.md",
     "09_Templates/Vocabulary Template.md",
     "Attachments/Pasted image 20260429221039.png",
-    "Attachments/Pasted image 20260429220708.png",
     "04_Grammar/Present Simple.md",
     "08_Resources/Resources.md",
     "09_Templates/Mistake Template.md"
